@@ -2,6 +2,8 @@
 # encoding: utf8
 # Author : laudai
 
+# reference: https://www.ithome.com.tw/voice/127918import hashlib
+
 import hashlib
 import subprocess
 import secrets
